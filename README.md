@@ -1,3 +1,16 @@
+Pre Introduction
+This was a coding Challenge given to me through Gapjumper.
+
+Challenge Brief
+On this role, you’ll be required to have advanced experience in ReactJS and mobile development working on Context.IO.
+
+For the sake of this challenge, you may use ReactJS, Angular 2 or VueJS.
+
+Create the Web Page based on the Visual Mock provided under the ‘View Resources’ tab as a single page responsive web app that uses the JSON Data locally and can run on your local browser.
+
+Visual mock up can be found in organizer_mock.PNG.
+
+##############################################################################
 Introduction
 I'm using React-app to build this app.
 I'll try to document the best i can from where i learned some of the features that i'm using.
