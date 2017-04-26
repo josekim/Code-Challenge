@@ -1,0 +1,217 @@
+.search-bar{
+  background-color:#E5E5E5;
+  width:99%;
+  height:70px;
+  text-align: center;
+}
+.search-bar select{
+  margin: 20px;
+  height:25px;
+  float:left;
+  width:15%;
+}
+.search-bar input{
+  width: 30%;
+  height: 25px;
+  margin: 20px;
+  position: relative;
+  left: -15%;
+}
+table {
+  padding:10%;
+  background-color:#F5F5F5;
+  font-size:small;
+}
+.table th {
+  color:#797979;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+a {
+  text-decoration: none;
+  color: #797979;
+  cursor: pointer;
+}
+a:hover, a:focus {
+  text-decoration: none;
+  color: #303030;
+  cursor: pointer;
+}
+.thheader{
+  width:24%;
+}
+.organize {
+  text-align: center;
+  width:10%;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.table-sub{
+  background-color:white;
+  padding-top:0;
+  padding-bottom:0;
+  border-width:0;
+  color:#797979;
+}
+
+.table-gray{
+  color:#C9C9C9;
+}
+.table-sub{
+  background-color:white;
+  padding-top:0;
+  padding-bottom:0;
+  border-width:0;
+}
+.table-sub-sender, .table-sub-email, .table-sub-domain{
+  color:#797979;
+  background-color:white;
+  border-width:2px;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+  width:24%;
+}
+
+.table-gray-sender,.table-gray-email,.table-gray-domain {
+  color:#C9C9C9;
+  width:24%;
+}
+
+.table-gray-folder select{
+  width:100%;
+  height:30px;
+  text-align: middle;
+}
+.table-sub-folder select{
+  color:#000000;
+  width:100%;
+  height:30px;
+  vertical-align: middle;
+}
+.table-gray-folder{
+  color:#C9C9C9;
+  width:24%;
+  padding:2px 8px 2px 8px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+  vertical-align: middle !important;
+}
+.table-sub-folder{
+  background-color:white;
+  padding:2px 8px 2px 8px !important;
+  width:24%;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+  vertical-align: middle !important;
+}
+.title {
+  background-color:white;
+}
+.title h1{
+  text-align:center;
+  font-size:x-large;
+  padding: 10px;
+  margin:0;
+}
+.title h2{
+  text-align:center;
+  font-size:medium;
+  padding:10px;
+  margin:0;
+}
+.Business{
+  background-color:#D0BED7;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Home{
+  background-color:#C9E9ED;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Finance{
+  background-color:#E8BFDD;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Education{
+  background-color:#C3E5BF;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.RealEstate{
+  background-color:blue;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Travel{
+  background-color:#d6b689;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Entertainment{
+  background-color:#8aceb6;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.SocialNetworking{
+  background-color:#9880e5;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.News{
+  background-color:#c94e6f;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Jobs{
+  background-color:#c5c954;
+  width:0.5%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Shopping{
+  background-color:#a0c679;
+  width:0.5%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.Groups{
+  background-color:#71bcbb;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.table-nocolor{
+  background-color:#F5F5F5;
+  width:1%;
+  padding:8px 4px 8px 2px !important;
+  border-top:15px solid #F5F5F5!important;
+  border-bottom:15px solid #F5F5F5!important;
+}
+.table-blank{
+  background-color:#F5F5F5;
+  width:5%;
+  padding:0 ;
+}
