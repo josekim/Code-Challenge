@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import RenderList from './render_list'
-import emails from "./Data"
+import emails from "../Data"
 import {SHOWALL,UNREAD,READ,SEARCHPROMPT} from './search_bar';
 
 
